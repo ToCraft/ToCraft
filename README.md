@@ -1,4 +1,4 @@
-<p align=center>Hi! I'm ToCraft, aka To_Craft.</p>
+<p align=center>Hi! I'm <b>ToCraft</b>, <i>aka</i> <b>To_Craft</b><i>, former known as </i><b>Minecraft_Pi</b>.</p>
 
 ![https://tocraft.ddns.net](tocraft-mc.png)
 
