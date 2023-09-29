@@ -10,6 +10,6 @@ I started with Python on a Linux server, so I know my way around Linux, Python a
 
 I also once created a multiplayer shooter with Unity, so I also know a bit about C#.
 
-Furthermore, I'm very intersted in IT-Security and similar stuff.
+Furthermore, I'm very intersted in IT-Security and similar stuff, therefore, I'm a [Kali Linux](https://www.kali.org/) user.
 
 Finally, I once programmed an AI with [Tensorflow](https://www.tensorflow.org/).
